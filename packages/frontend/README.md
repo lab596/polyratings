@@ -4,7 +4,7 @@ Frontend for the polyratings website hosted at <http://polyratings.dev>
 
 ## Overview
 
-The frontend was built in react do to the ease of use and do to it currently being taught at Cal Poly.
+The frontend was built in react due to the ease of use and due to it currently being taught at Cal Poly.
 
 ## Quick Notes
 
